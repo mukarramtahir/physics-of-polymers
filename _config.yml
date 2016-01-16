@@ -1,0 +1,8 @@
+# Site settings
+title: Physics of Polymers
+description: Polymer physics explained through short modules containing interactive visuals written in Javascript
+baseurl: ""
+url: "http://physicsofpolymers.com"
+
+# Build settings
+markdown: kramdown
