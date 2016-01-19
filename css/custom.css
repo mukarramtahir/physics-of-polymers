@@ -2,6 +2,10 @@
     background-color: rgb(240,220,80);
 }
 
+p {
+  font-size: 12px;
+}
+
 #contents {
     background-color: green;
 }
