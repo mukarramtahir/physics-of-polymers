@@ -2,6 +2,10 @@
     background-color: rgb(240,220,80);
 }
 
+#cover > div {
+    background-color: rgb(240,220,80);
+}
+
 h1 {
   font-size: 48px;
 }
